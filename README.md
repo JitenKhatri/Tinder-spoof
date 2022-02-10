@@ -1,2 +1,1 @@
-# Tinder-spoof
-Tinder for out beloved doggies.
+TinDog Starting Files
